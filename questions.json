@@ -1,0 +1,107 @@
+[
+  {
+    "subject": "Physics",
+    "question": "Which law explains the relationship between force, mass, and acceleration?",
+    "options": ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Law of Gravitation"],
+    "answer": "Newton's Second Law",
+    "explanation": "Newton's Second Law states that force equals mass times acceleration (F = m × a). It explains how an object’s motion changes when a net force acts on it."
+  },
+  {
+    "subject": "Physics",
+    "question": "Why does a coin fall faster than a feather in air?",
+    "options": ["Coin has more weight", "Feather is lighter", "Air resistance affects the feather more", "Gravity pulls coins more strongly"],
+    "answer": "Air resistance affects the feather more",
+    "explanation": "In air, drag slows light objects with large surface area, like feathers. In vacuum, both fall equally fast under gravity."
+  },
+  {
+    "subject": "Physics",
+    "question": "What type of energy transformation occurs in an electric fan?",
+    "options": ["Electrical to mechanical", "Mechanical to electrical", "Electrical to heat", "Mechanical to sound"],
+    "answer": "Electrical to mechanical",
+    "explanation": "An electric fan converts electrical energy into mechanical energy that rotates the blades, producing airflow."
+  },
+  {
+    "subject": "Physics",
+    "question": "Why does a black object get hotter faster in sunlight than a white object?",
+    "options": ["Black absorbs all light", "White reflects all light", "Both A and B", "None of these"],
+    "answer": "Both A and B",
+    "explanation": "Black surfaces absorb most wavelengths of light, converting them to heat. White surfaces reflect most light, staying cooler."
+  },
+  {
+    "subject": "Physics",
+    "question": "Which type of mirror is used in vehicle headlights?",
+    "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Parabolic mirror"],
+    "answer": "Concave mirror",
+    "explanation": "A concave mirror focuses light from the bulb into a strong, parallel beam, increasing the headlight’s brightness and range."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which gas is commonly known as laughing gas?",
+    "options": ["Nitrogen dioxide", "Nitrous oxide", "Carbon monoxide", "Sulfur dioxide"],
+    "answer": "Nitrous oxide",
+    "explanation": "Nitrous oxide (N₂O) is called laughing gas because inhaling small amounts produces a brief feeling of euphoria."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which metal is stored in kerosene to prevent reaction with air?",
+    "options": ["Sodium", "Iron", "Copper", "Aluminium"],
+    "answer": "Sodium",
+    "explanation": "Sodium reacts violently with air and moisture, producing heat and hydrogen gas. Storing it under kerosene prevents contact with oxygen and water."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "What is the main constituent of natural gas?",
+    "options": ["Methane", "Ethane", "Propane", "Butane"],
+    "answer": "Methane",
+    "explanation": "Natural gas mainly consists of methane (CH₄), a clean fuel used for cooking, heating, and power generation."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Which acid is present in vinegar?",
+    "options": ["Hydrochloric acid", "Acetic acid", "Sulfuric acid", "Nitric acid"],
+    "answer": "Acetic acid",
+    "explanation": "Vinegar is a dilute solution of acetic acid (CH₃COOH), giving it a sour taste and preservative properties."
+  },
+  {
+    "subject": "Chemistry",
+    "question": "Why does iron rust in moist air?",
+    "options": ["Reaction with nitrogen", "Reaction with carbon dioxide", "Reaction with oxygen and water", "Reaction with hydrogen"],
+    "answer": "Reaction with oxygen and water",
+    "explanation": "Rusting is an oxidation process where iron reacts with oxygen and water to form hydrated iron oxide (Fe₂O₃·xH₂O)."
+  },
+  {
+    "subject": "Biology",
+    "question": "What is the basic structural and functional unit of life?",
+    "options": ["Tissue", "Organ", "Cell", "Organism"],
+    "answer": "Cell",
+    "explanation": "The cell is the smallest unit capable of performing all life processes like growth, metabolism, and reproduction."
+  },
+  {
+    "subject": "Biology",
+    "question": "Which part of the human brain controls balance and coordination?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla", "Pons"],
+    "answer": "Cerebellum",
+    "explanation": "The cerebellum coordinates muscle activity and maintains posture and balance."
+  },
+  {
+    "subject": "Biology",
+    "question": "Which organ in humans is responsible for filtering blood?",
+    "options": ["Lungs", "Liver", "Kidneys", "Heart"],
+    "answer": "Kidneys",
+    "explanation": "The kidneys filter waste and excess substances from blood, forming urine while maintaining water and salt balance."
+  },
+  {
+    "subject": "Biology",
+    "question": "What is the green pigment found in plants that helps in photosynthesis?",
+    "options": ["Carotene", "Chlorophyll", "Xanthophyll", "Anthocyanin"],
+    "answer": "Chlorophyll",
+    "explanation": "Chlorophyll absorbs sunlight energy and converts carbon dioxide and water into glucose during photosynthesis."
+  },
+  {
+    "subject": "Biology",
+    "question": "Why do we feel tired after vigorous exercise?",
+    "options": ["Lactic acid buildup in muscles", "Low oxygen in lungs", "High sugar levels", "Lack of water"],
+    "answer": "Lactic acid buildup in muscles",
+    "explanation": "During intense exercise, oxygen supply is insufficient and anaerobic respiration produces lactic acid, causing muscle fatigue."
+  }
+]
